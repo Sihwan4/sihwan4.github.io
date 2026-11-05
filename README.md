@@ -8,3 +8,8 @@
 ## 논문
 
 - arXiv-2608.02799v1 nonstandard
+
+## 개인 리포지토리
+
+- [AI Conference DBs](https://www.datatangerine.com/ai-conference-dbs/)
+- [면역, KT 등등](https://www.datatangerine.com/BcellPcKt/)
