@@ -41,3 +41,6 @@
 - [AI Conference DBs](https://www.datatangerine.com/ai-conference-dbs/)
 - [면역, KT 등등](https://www.datatangerine.com/BcellPcKt/)
 - [Math](https://www.datatangerine.com/math/)
+
+## 개인 리포지토리 (내부 링크)
+- [How to write](https://github.com/Sihwan4/sihwan4.github.io/blob/main/how-to-write/index.md)
